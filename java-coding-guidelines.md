@@ -1,1 +1,1 @@
-# java-coding-guidelines
+# Java Coding Guidelines
